@@ -36,10 +36,6 @@ On this script the delete feature for folders and labels is tested. It is expect
 
 <img width="956" alt="Screenshot 2022-03-29 at 10 34 55" src="https://user-images.githubusercontent.com/102558006/160569473-c2092436-40fd-40c9-98ec-f1be9ea335e3.png">
 
-
-1. Install Cypress
-Follow these instructions to install Cypress.
-
 2. Fork this repo
 
 ## clone this repo to a local directory
@@ -51,8 +47,4 @@ cd ProtonMtests
 ## install the node_modules
 npm install
 
-
-3. Add the project to Cypress
-Follow these instructions to add the project to Cypress.
-  
  
