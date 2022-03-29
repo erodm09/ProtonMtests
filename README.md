@@ -32,6 +32,9 @@ It is expected that the folder is created without a parenting folder attached.
 
 Folder and label edits are done with these scripts while pressing the edit button and editing the name and saving the folder/label edited. It is expected that the name changed as detailed on the script.
 
+On this script the delete feature for folders and labels is tested. It is expected that the record selected that contains the name on the script will be deleted.
+
+<img width="956" alt="Screenshot 2022-03-29 at 10 34 55" src="https://user-images.githubusercontent.com/102558006/160569473-c2092436-40fd-40c9-98ec-f1be9ea335e3.png">
 
 
 1. Install Cypress
